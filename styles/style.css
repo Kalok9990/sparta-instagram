@@ -1,0 +1,139 @@
+body{
+  background-color: #fafafa;
+  color: gray;
+}
+
+section {
+  border: solid;
+  border-color: lightgray;
+  border-width: thin;
+  background-color: white;
+  width: 350px;
+}
+
+
+.row {
+  text-align: center;
+}
+
+.row3 {
+  height: auto;
+}
+
+.box1 {
+  height: 520px;
+  margin: 0 0 10px;
+}
+
+.box2 {
+  height: 60px;
+}
+
+.box2 p {
+  padding-top: 20px;
+}
+
+.box3 {
+  margin-top: 42px;
+  padding-right: 30px;
+}
+
+.phone {
+  padding-top: 45px;
+  padding-left: 50px;
+  margin: auto;
+  display: block;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  width: 200px;
+}
+
+.signup {
+  padding: 0 40px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.btn {
+  color: white;
+  background-color: #3897f0;
+  border: 1px solid #3897f0;
+  font-weight: 600;
+}
+
+.book {
+  padding: 6px 60px;
+  margin-bottom: 15px;
+}
+
+.fa-facebook {
+    background: white;
+    color: #3897f0;
+    padding: 2px;
+    font-size: 10px;
+    width: 10px;
+    text-align: center;
+    text-decoration: underline;
+    margin: 2px;
+}
+
+hr {
+  display: inline-block;
+  border-width: 1px;
+}
+
+form {
+  margin-bottom: 25px;
+}
+
+input {
+  margin: 10px;
+  padding-right: 100px;
+  background-color: #fafafa;
+  width: 280px;
+  border: none;
+}
+
+p a {
+  color: gray;
+}
+
+.terms {
+  padding: 0 30px;
+}
+
+.col-sm-8 {
+  font-size: 12px;
+  margin-top: 20px;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+.col-sm-8 a {
+  margin: 0 5px;
+  color: #003a84;
+  font-weight: bold;
+}
+
+.col-sm-4 {
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.appstore {
+  width: 165px;
+  height: 53px;
+  background: url(../images/badge-iphone.png);
+  background-repeat: no-repeat;
+}
+ .googleplay {
+  width: 155px;
+  height: 53px;
+  background: url(../images/badge-android.png);
+  background-repeat: no-repeat;
+ }
