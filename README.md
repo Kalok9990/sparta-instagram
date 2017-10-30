@@ -14,4 +14,3 @@ When using the grid system, I had the mindset that the contents within each grid
 
 #Pleased
 I am happy that I managed to get it closer to looking like the Instagram homepage.
->>>>>>> Stashed changes
